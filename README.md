@@ -1,5 +1,7 @@
 # cannon-es-skills
 
+[![skills.sh](https://skills.sh/b/erikoey/cannon-es-skills)](https://skills.sh/erikoey/cannon-es-skills)
+
 AI-agent skills for [cannon-es](https://github.com/pmndrs/cannon-es) — the maintained ESM rigid-body physics engine — paired with [three.js](https://github.com/mrdoob/three.js).
 
 The `cannon-es` skill covers world setup, bodies, shapes, materials and contact materials, constraints, collision events and triggers, raycasting, fixed-timestep stepping with interpolation, sleeping, the three.js mesh-sync pattern, performance tips, and 11 common pitfalls (half-extents, scale invisibility, NaN poisoning, tunneling, delta spikes, and more).
